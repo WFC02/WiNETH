@@ -23,9 +23,9 @@ Usage
 C:\Users\USERNAME\Desktop\ethminer\ethminer.exe
 
 3 - Fill the ethminer's startup parameters, as you would normally use on your ethminer startup script, but excluding "ethminer.exe" before, e.g.:
-
---farm-recheck 2000 -U -S POOL_ADDRESS:PORT -O WALLET_ID.MINER_NAME/E-MAIL_FOR_MONITORING
-
+=====================================================================
+-RH -U -P stratum+ssl://WALLET_ID.MINER_NAME@eu1.ethermine.org:5555
+=====================================================================
 4 - Check the options you want to activate.
 
 5 - Click on "Start mining".
