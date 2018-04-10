@@ -13,7 +13,7 @@ integrated pools monitoring - in progress
 Download
 You can find the ready to use package in : 
 Install
-MinerLamp uses Qt as main developpement framework. The binary (MinerLamp.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/orkblutt/MinerLamp/releases]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your MinerLamp directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
+MinerLamp uses Qt as main developpement framework. The binary (MinerLamp.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/digitalpara/WiNETH]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your MinerLamp directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
 
 Usage
 1 - Start WiNETH Miner.
