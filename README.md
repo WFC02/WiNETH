@@ -1,4 +1,4 @@
-# WiNETH
+# WiNETH Now I will take care of your miner and you can relax...
 WiNETH Miner is a graphical interface to use with ethminer with advanced watchdog options and monitoring.
 WinETH Miner written in Qt (C++), is a GUI with options to run ethminer under control.
 Features
