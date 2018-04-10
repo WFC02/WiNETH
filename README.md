@@ -43,4 +43,4 @@ Feel free to make pull request. You can also chat with other users and me on Git
 Donation
 By default, the binaries built using the code include an automatic donation system: Every 4 hours, ethminer will be restarted using the 0x7F5BB53c415334235a9E42eA03695F11b6553C0D ethereum address in the parameters during 5 minutes. When this 5 minutes delay is gone, ethminer is restarted using the user credentials. If you prefer to not use this system, you have to uncheck the donation checkbox in the About dialog.
 
-You can also donate directly on 0x7F5BB53c415334235a9E42eA03695F11b6553C0D
+You can also donate Ethereum directly on 0x7F5BB53c415334235a9E42eA03695F11b6553C0D
