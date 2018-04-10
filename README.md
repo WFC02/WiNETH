@@ -13,7 +13,7 @@ integrated pools monitoring - in progress
 Download :https://mirrorace.com/m/1qikf
 You can find the ready to use package in : 
 Install
-WinEther uses Qt as main developpement framework. The binary (WinEther.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/digitalpara/WiNETH]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your MinerLamp directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
+WinEther uses Qt as main developpement framework. The binary (WinEther.exe) depends on several Qt libraries. You can find them in the archive availabe on the release page [https://github.com/digitalpara/WiNETH]. nVidia option needs the nvml.dll (or .so). On Windows you can copy and paste it in your WinEther directory or add path in the PATH environment variable. Traditionaly, the path is: "C:\Program Files\NVIDIA Corporation\NVSMI"
 
 Usage
 1 - Start WiNETH Miner.
