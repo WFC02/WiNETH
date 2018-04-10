@@ -23,9 +23,9 @@ Usage
 C:\Users\USERNAME\Desktop\ethminer\ethminer.exe
 
 3 - Fill the ethminer's startup parameters, as you would normally use on your ethminer startup script, but excluding "ethminer.exe" before, e.g.:
-=====================================================================
+
 -RH -U -P stratum+ssl://WALLET_ID.MINER_NAME@eu1.ethermine.org:5555
-=====================================================================
+
 4 - Check the options you want to activate.
 
 5 - Click on "Start mining".
